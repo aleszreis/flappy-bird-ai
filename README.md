@@ -5,3 +5,6 @@ Recriação do jogo Flappy Bird para projetar o funcionamento da Aprendizagem de
 Para a construção do jogo, foi usada a biblioteca PyGame integrada a programação orientada a objetos para movimentá-los, animá-los e auxiliar na definição de colisão.
 
 O algoritmo de inteligência artificial utilizado foi o NEAT (Neural Evolution Augmenting Topology). As configurações da IA foram mantidas segundo o padrão do projeto da Hashtag.
+
+### Outras informações
+A versão do Python utilizada foi a 3.9.7.
